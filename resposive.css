@@ -1,0 +1,47 @@
+@media only screen and (max-width:900px
+){
+    #elementToworkon{border: 2px solid bisque;background-color: rgb(132, 4, 4);font-weight: bold;margin: 4px;padding: 20px;width: 10%;display: none;align-items: center;margin-left: px;margin-top:200px;width: 300px;height: 150px;border: red;border-radius: 20px;color: rgb(202, 12, 12);text-align: center;}
+    .btn{background-color: rgb(220, 208, 208);color: red; padding: 5px;width: 200px; border-radius: 60px; box-shadow: rgba(0,0,0,0.5);border-color: brown; color: red;align-items: center;margin-left: 75px;margin-top: 10px;}
+ 
+    .btn h3{color: rgb(225, 29, 29);}
+    #elementToworko .h3{color: white;}
+    
+
+
+}
+
+
+
+@media only screen and (max-width:600px
+){
+    #elementToworkon{border: 2px solid bisque;background-color: rgb(132, 4, 4);font-weight: bold;margin: 4px;padding: 20px;width: 10%;display: none;align-items: center;margin-left: 10px;margin-top:200px;width: 300px;height: 150px;border: red;border-radius: 20px;color: rgb(202, 12, 12);text-align: center;}
+    .btn{background-color: rgb(220, 208, 208);color: red; padding: 5px;width: 200px; border-radius: 60px; box-shadow: rgba(0,0,0,0.5);border-color: brown; color: red;align-items: center;margin-left: 60px;margin-top: 10px;}
+ 
+    .btn h3{color: rgb(225, 29, 29);}
+    #elementToworko .h3{color: white;}
+    
+
+
+}
+
+
+
+
+@media only screen and (min-width:650px){
+
+    #elementToworkon{border: 2px solid rgb(84, 49, 6);background-color: rgb(103, 7, 7);font-weight: bold;margin: 4px;padding: 20px;width: 10%;display: none;align-items: center;margin-left: 500px;margin-top:200px;width: 300px;height: 200px;border: red;border-radius: 20px;color: rgb(202, 12, 12);}
+    .btn{background-color: rgb(213, 201, 201);color: red; padding: 20px;width: 200px; border-radius: 60px; box-shadow: rgba(0,0,0,0.5);border-color: brown; color: red;}
+    
+    .btn h3{color: rgb(204, 15, 15);}
+    #elementToworko h3{color: rgb(28, 183, 44);}
+    
+
+.container{display: flex;}
+
+}
+
+   
+    
+
+
+
