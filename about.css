@@ -61,7 +61,7 @@ h4{color: #fff;font-family: 'Bree Serif', serif;
 
 
 #elementToworkon{border: 2px solid bisque;background-color: rgb(240, 214, 214);font-weight: bold;margin: 4px;padding: 40%;width: 10%;display: none;align-items: center;margin-left: 500px;margin-top:200px;width: 500px;height: 300px;border: rgb(216, 207, 207);border-radius: 20px;color: rgb(82, 4, 4);padding-bottom: 200px;}
-.btn{background-color: rgb(220, 208, 208);color: red; padding: 20px;width: 200px; border-radius: 60px;margin-left: 550px; box-shadow: rgba(0,0,0,0.5);border-color: brown; color: red;visibility: hidde;}
+.btn{background-color: rgb(220, 208, 208);color: red; padding: 20px;width: 200px; border-radius: 60px;margin-left: 550px; box-shadow: rgba(0,0,0,0.5);border-color: brown; color: red;visibility: ;}
 
 .btn h3{color: rgb(204, 15, 15);}
 #elementToworko h3{color: white;}
